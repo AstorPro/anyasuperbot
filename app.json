@@ -61,6 +61,14 @@
       "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
       "value": ""
     },
+    "BOT_USERNAME": {
+       "description": "username of your bot without the @",
+       "value": "AnyaSuperBot"
+    },
+    "BOT_ID": {
+       "description": "to get your bot_id using other bot or userbot",
+       "value": "5413491390"
+    },
     "HEROKU_APP_NAME": {
       "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
       "required": false
